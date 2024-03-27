@@ -16,8 +16,8 @@ The project addresses the limitations of traditional interrogation techniques, s
 
 ### Steps
 
-First visit https://github.com/Bornface-Sonye/Bornface-Sonye to navigate to my project folde and clone the project to your local directory in your local machine
-The you can follow as shown below:-
+First visit https://github.com/Bornface-Sonye/Bornface-Sonye to navigate to my project folder and clone the project to your local directory in your local machine.
+The you can follow as shown below:-.
 Note this project belongs to a student so corrections are welcomed !
 
 1. **DepLogin**
