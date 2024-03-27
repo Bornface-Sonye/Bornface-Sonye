@@ -18,7 +18,7 @@ The project addresses the limitations of traditional interrogation techniques, s
 
 1. **DepLogin**
    - Enforcers log in as department member through the provided link.
-   - [DepLogin URL](http://127.0.0.1:8000/peace/deplogin/)
+   - [DepLogin URL](http://127.0.0.1:8000/peace/)
 
 2. **Homepage**
    - Enforcers can choose to log in or sign up from the homepage.
