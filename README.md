@@ -18,7 +18,7 @@ The project addresses the limitations of traditional interrogation techniques, s
 
 1. **DepLogin**
    - Enforcers log in as department member through the provided link.
-   - Just start the 'cdm' in your local machine and navigate to the folder you have cloned the project and type 'python manage.py runserver' for windows; then click the link below;-
+   - Just start the 'cmd' in your local machine and navigate to the folder you have cloned the project and type 'python manage.py runserver' for windows; then click the link below;-
    - [DepLogin URL](http://127.0.0.1:8000/peace/)
 
 2. **Homepage**
