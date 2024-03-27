@@ -16,6 +16,10 @@ The project addresses the limitations of traditional interrogation techniques, s
 
 ### Steps
 
+First visit https://github.com/Bornface-Sonye/Bornface-Sonye to navigate to my project folde and clone the project to your local directory in your local machine
+The you can follow as shown below:-
+Note this project belongs to a student so corrections are welcomed !
+
 1. **DepLogin**
    - Enforcers log in as department member through the provided link.
    - Just start the 'cmd' in your local machine and navigate to the folder you have cloned the project and type 'python manage.py runserver' for windows; then click the link below;-
